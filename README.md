@@ -1,4 +1,5 @@
 Анализ данных интернет-магазина
+
 Анализ данных из Kaggle с использованием Python (Pandas), PostgreSQL, Excel и Power BI
 
 Ссылка на Kaggle: https://www.kaggle.com/datasets/muhammadroshaanriaz/e-commerce-trends-a-guide-to-leveraging-dataset
